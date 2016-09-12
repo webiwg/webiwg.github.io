@@ -13,8 +13,8 @@ web em http://www.webiwg.org.
 
 ## O que é WebIWG?
 
-[WebIWG](http://www.webiwg.org) é um grupo de trabalho independente focado em
-tecnologias da Web, auto-organizado e sem fins lucrativos.
+[WebIWG](http://www.webiwg.org) é um grupo de trabalho independente focado
+em tecnologias da Web, auto-organizado e sem fins lucrativos.
 
 # Projetos ativos atuais
 
