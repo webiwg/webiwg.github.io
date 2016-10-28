@@ -1,4 +1,4 @@
-# WebIWG Issues
+# Site da WebIWG.org
 See [this document in English in README-en.md](README-en.md).
 
 Código fonte do site do grupo de trabalho WebIWG, disponível via
@@ -13,8 +13,8 @@ web em http://www.webiwg.org.
 
 ## O que é WebIWG?
 
-[WebIWG](http://www.webiwg.org) é um grupo de trabalho independente focado
-em tecnologias da Web, auto-organizado e sem fins lucrativos.
+[WebIWG](http://www.webiwg.org) é um grupo de trabalho independente focado em
+tecnologias da Web, auto-organizado e sem fins lucrativos.
 
 # Projetos ativos atuais
 
@@ -59,6 +59,26 @@ possivelmente melhorando a integração da comunidade de desenvolvedores.
 O projeto é coordenado por [Ana Luiza Bastos](https://github.com/anabastos).
 O site publicado está em [http://eventos.webiwg.org](http://eventos.webiwg.org)
 e seu código fonte em [https://github.com/webiwg/eventos-web](https://github.com/webiwg/eventos-web).
+
+## Tradução de RFCs da IETF para Português
+
+Projeto dedicado a traduzir alguns RFCs (Request for Comments) da IETF
+(Internet Engineering Task Force) para Português. A espectativa inicial é ter
+algumas das principais especificações técnicas no segundo semestre de 2017.
+
+Surgiu do projeto [História da Web em português](https://github.com/webiwg/historia-web-pt)
+no qual algumas RFCs começaram a ser traduzidas.
+
+O site publicado está em [http://rfc.pt.webiwg.org](http://rfc.pt.webiwg.org)
+e seu código fonte em [https://github.com/webiwg/rfc-pt](https://github.com/webiwg/rfc-pt).
+
+# Feedback from Translators
+This project gathers feedback from translators for those who write technical
+documentation.
+
+It is managed by multiple people from [WeIWG](https://github.com/webiwg),
+does not have its own website and the content is made available on Github repository
+[webiwg/feedback-from-translators](https://github.com/webiwg/feedback-from-translators).
 
 # Tradução de textos
 Para textos importantes para promoção de Acessibilidade na Web e/ou na História

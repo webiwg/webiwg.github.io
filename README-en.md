@@ -1,4 +1,4 @@
-# WebIWG Issues
+# WebIWG.org site
 <!--
   IMPORTANTE: a partir daqui, este arquivo é igual em webiwg-issues e
               webiwg.github.io. Ao fazer edições neste arquivo, edite
@@ -54,3 +54,28 @@ the integration of the web developres comunity.
 This project is coordinated by [Ana Luiza Bastos](https://github.com/anabastos).
 It is published on [http://eventos.webiwg.org](http://eventos.webiwg.org)
 and its source code can be found in [https://github.com/webiwg/eventos-web](https://github.com/webiwg/eventos-web).
+
+<!--
+  TODO: alguém deve traduzir este paragrafo em webiwg-issues e webiwg.github.io
+        (fititnt, 2016-10-28)
+-->
+
+## Tradução de RFCs da IETF para Português
+
+Projeto dedicado a traduzir alguns RFCs (Request for Comments) da IETF
+(Internet Engineering Task Force) para Português. A espectativa inicial é ter
+algumas das principais especificações técnicas no segundo semestre de 2017.
+
+Surgiu do projeto [História da Web em português](https://github.com/webiwg/historia-web-pt)
+no qual algumas RFCs começaram a ser traduzidas.
+
+O site publicado está em [http://rfc.pt.webiwg.org](http://rfc.pt.webiwg.org)
+e seu código fonte em [https://github.com/webiwg/rfc-pt](https://github.com/webiwg/rfc-pt).
+
+# Feedback from Translators
+This project gathers feedback from translators for those who write technical
+documentation.
+
+It is managed by multiple people from [WeIWG](https://github.com/webiwg),
+does not have its own website and the content is made available on Github repository
+[webiwg/feedback-from-translators](https://github.com/webiwg/feedback-from-translators).
