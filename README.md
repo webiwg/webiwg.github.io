@@ -2,7 +2,7 @@
 See [this document in English in README-en.md](README-en.md).
 
 Código fonte do site do grupo de trabalho WebIWG, disponível via
-web em http://www.webiwg.org.
+web em https://webiwg.github.io.
 
 ---
 <!--
@@ -13,10 +13,10 @@ web em http://www.webiwg.org.
 
 ## O que é WebIWG?
 
-[WebIWG](http://www.webiwg.org) é um grupo de trabalho independente focado em
+[WebIWG](https://webiwg.github.io) é um grupo de trabalho independente focado em
 tecnologias da Web, auto-organizado e sem fins lucrativos.
 
-# Projetos ativos atuais
+# Projetos
 
 ## Textos sobre acessibilidade na Web em português
 Aqui você encontra textos traduzidos sobre acessibilidade na Web no idioma
@@ -31,7 +31,7 @@ sirva de base para inspirar projetos, que hoje, em Agosto de 2016, seriam
 inimagináveis pela comunidade de desenvolvedores que fala português.
 
 O projeto é coordenado por [Vilmar Neto](https://github.com/Dkmister).
-O site publicado está em [http://acessibilidade.pt.webiwg.org/](http://acessibilidade.pt.webiwg.org/)
+O site publicado está em [https://webiwg.github.io/acessibilidade-web-pt](https://webiwg.github.io/acessibilidade-web-pt)
 e seu código fonte em [https://github.com/webiwg/acessibilidade-web-pt](https://github.com/webiwg/acessibilidade-web-pt).
 
 ## História da Web em português
@@ -42,8 +42,8 @@ Mais do que apenas citar uma linha de acontecimentos, o objetivo é ir um pouco
 além e servir de base para interessados entenderem como chegamos até aqui, e
 potencialmente **inspirar ações que melhorem o futuro**.
 
-O projeto é coordenado por [Vilmar Neto](https://github.com/Dkmister).
-O site publicado está em [http://historia.pt.webiwg.org/](http://historia.pt.webiwg.org/)
+O projeto é coordenado por [Vilmar Neto ↗](https://github.com/Dkmister).
+O site publicado está em [https://webiwg.github.io/historia-web-pt](https://webiwg.github.io/historia-web-pt)
 e seu código fonte em [https://github.com/webiwg/historia-web-pt](https://github.com/webiwg/historia-web-pt).
 
 ## História de eventos de tecnologia
@@ -57,19 +57,15 @@ esta iniciativa ajude organizadores de eventos aprederem com os anteriores,
 possivelmente melhorando a integração da comunidade de desenvolvedores.
 
 O projeto é coordenado por [Ana Luiza Bastos](https://github.com/anabastos).
-O site publicado está em [http://eventos.webiwg.org](http://eventos.webiwg.org)
+O site publicado está em [https://webiwg.github.io/eventos-web](https://webiwg.github.io/eventos-web)
 e seu código fonte em [https://github.com/webiwg/eventos-web](https://github.com/webiwg/eventos-web).
 
 ## Tradução de RFCs da IETF para Português
 
 Projeto dedicado a traduzir alguns RFCs (Request for Comments) da IETF
-(Internet Engineering Task Force) para Português. A espectativa inicial é ter
-algumas das principais especificações técnicas no segundo semestre de 2017.
+(Internet Engineering Task Force) para Português.
 
-Surgiu do projeto [História da Web em português](https://github.com/webiwg/historia-web-pt)
-no qual algumas RFCs começaram a ser traduzidas.
-
-O site publicado está em [http://rfc.pt.webiwg.org](http://rfc.pt.webiwg.org)
+O site publicado está em [https://webiwg.github.io/rfc-pt](https://webiwg.github.io/rfc-pt)
 e seu código fonte em [https://github.com/webiwg/rfc-pt](https://github.com/webiwg/rfc-pt).
 
 # Feedback from Translators
@@ -78,7 +74,7 @@ documentation.
 
 It is managed by multiple people from [WeIWG](https://github.com/webiwg),
 does not have its own website and the content is made available on Github repository
-[webiwg/feedback-from-translators](https://github.com/webiwg/feedback-from-translators).
+[webiwg/feedback-from-translators ↗](https://github.com/webiwg/feedback-from-translators).
 
 # Tradução de textos
 Para textos importantes para promoção de Acessibilidade na Web e/ou na História

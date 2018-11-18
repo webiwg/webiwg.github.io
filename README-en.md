@@ -12,7 +12,7 @@ Veja [versão em português deste documento em README.md](README.md).
 [WebIWG](http://www.webiwg.org) is a self-organized nonprofit working group,
 focused on Web technologies.
 
-# Active projects
+# Projects
 
 ## Texts about Web accessibility in Portuguese
 Here you can find texts about Web accessibility translated into Portuguese.
